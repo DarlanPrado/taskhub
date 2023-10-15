@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "bulma": "^0.9.4",
+    "chart.js": "^4.4.0",
     "sass": "^1.69.3",
     "superagent": "^8.1.2"
   }
